@@ -1,37 +1,73 @@
 ### Monday, June 6th
 
-[Installathon]()
+#### Morning
 
-[Introduction to the command line](https://github.com/smythp/intro-command-line)
-Instructor: Patrick Smyth
+[Installathon]()  
+10:00 a.m. - 11:15 a.m.  
+Instrctors: GC Digital Fellows  
+
+#### Afternoon
+
+[Introduction to the command line](https://github.com/smythp/intro-command-line)  
+2:00 p.m. - 4:45 p.m.  
+Instructor: Patrick Smyth  
 
 ### Tuesday, June 7th
 
-[Introduction to Git and GitHub](https://github.com/jentang/GitDRI)
-Instructor: Jen Tang
+#### Morning/Afternoon
 
-[Python](https://github.com/GCDigitalFellows/Python)
-Instructor: Michelle Johnson-McSweeney
+[Introduction to Git and GitHub](https://github.com/jentang/GitDRI)  
+Section A: 10:00 a.m. - 12:45 p.m.  
+Section B: 2:00 p.m. - 4:45 p.m.  
+Instructor: Jen Tang  
+
+[Python](https://github.com/GCDigitalFellows/Python)  
+Section B: 10:00 a.m. - 12:45 p.m.  
+Section A: 2:00 p.m. - 4:45 p.m.  
+Instructor: Michelle Johnson-McSweeney  
 
 ### Wednesday, June 8th
 
-[Databases](https://github.com/GCDigitalFellows/GCDRI_databases)
-Instructor: Ian Phillips
+#### 10:00 a.m. Sessions (choose one)
 
-[Time Series](https://github.com/GCDigitalFellows/gcdri_ts_cat_ml) () 
-Instrctor: Hannah Aizenman
+[Text Analysis](https://github.com/GCDigitalFellows/Text_Analysis)  
+10:00 a.m. - 12:45 p.m.  
+Instructor: Michelle Johnson-McSweeney  
 
-[Javascript](https://github.com/GCDigitalFellows/JavaScript-)
-Instrctor: Patrick Sweeny
+[Time Series & Categorical Data](https://github.com/GCDigitalFellows/gcdri_ts_cat_ml) ()   
+10:00 a.m. - 12:45 p.m.  
+Instructor: Hannah Aizenman  
 
-[HTML/CSS](https://github.com/GCDigitalFellows/HTML-CSS-)
-Instructor: Patrick Sweeny
+[HTML/CSS](https://github.com/GCDigitalFellows/HTML-CSS-)  
+[Javascript](https://github.com/GCDigitalFellows/JavaScript-)  
+10:00 a.m. - 12:45 p.m.  
+Instructor: Patrick Sweeny  
 
-[Flask](https://github.com/smythp/intro-to-flask)
-Instructor: Patrick Smyth
+#### Afternoon
 
-[Text Analysis](https://github.com/GCDigitalFellows/Text_Analysis)
-Instructor: Michelle Johnson-McSweeney
+[Databases](https://github.com/GCDigitalFellows/GCDRI_databases)  
+2:00 p.m. - 4:45 p.m.  
+Instructor: Ian Phillips  
 
+### Thusday, June 9th
 
+#### 10:00 a.m. Sessions (choose one)
+
+Mapping  
+10:00 p.m. - 12:45 p.m.  
+Instructor: Steve Romalewski  
+
+Machine Learning  
+10:00 p.m. - 12:45 p.m.  
+Instructor: Hannah Aizenman  
+
+[Web Frameworks with Flask](https://github.com/smythp/intro-to-flask)  
+10:00 p.m. - 12:45 p.m.  
+Instructor: Patrick Smyth  
+
+#### Afternoon
+
+Project Laboratory  
+2:00 p.m. - 4:45 p.m.  
+Instructors: GC Digital Fellows  
 
