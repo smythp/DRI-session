@@ -2,9 +2,9 @@
 
 #### Morning
 
-[Installathon]()  
+[Installathon](https://github.com/GCDigitalFellows/installdri.github.io)  
 10:00 a.m. - 11:15 a.m.  
-Instrctors: GC Digital Fellows  
+Session Leader: Hannah Aizenman
 
 #### Afternoon
 
@@ -57,7 +57,7 @@ Mapping
 10:00 p.m. - 12:45 p.m.  
 Instructor: Steve Romalewski  
 
-Machine Learning  
+[Machine Learning](https://github.com/GCDigitalFellows/gcdri_ts_cat_ml)
 10:00 p.m. - 12:45 p.m.  
 Instructor: Hannah Aizenman  
 
@@ -69,5 +69,4 @@ Instructor: Patrick Smyth
 
 Project Laboratory  
 2:00 p.m. - 4:45 p.m.  
-Instructors: GC Digital Fellows  
-
+Session Leader: Lisa Rhody
