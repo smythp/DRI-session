@@ -53,7 +53,7 @@ Instructor: Ian Phillips
 
 #### 10:00 a.m. Sessions (choose one)
 
-Mapping  
+[Mapping](https://github.com/GCDigitalFellows/Mapping)  
 10:00 p.m. - 12:45 p.m.  
 Instructor: Steve Romalewski  
 
