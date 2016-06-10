@@ -54,15 +54,15 @@ Instructor: Ian Phillips
 #### 10:00 a.m. Sessions (choose one)
 
 [Mapping](https://github.com/GCDigitalFellows/Mapping)  
-10:00 p.m. - 12:45 p.m.  
+10:00 a.m. - 12:45 p.m.  
 Instructor: Steve Romalewski  
 
 [Machine Learning](https://github.com/GCDigitalFellows/gcdri_ts_cat_ml)
-10:00 p.m. - 12:45 p.m.  
+10:00 a.m. - 12:45 p.m.  
 Instructor: Hannah Aizenman  
 
 [Web Frameworks with Flask](https://github.com/smythp/intro-to-flask)  
-10:00 p.m. - 12:45 p.m.  
+10:00 a.m. - 12:45 p.m.  
 Instructor: Patrick Smyth  
 
 #### Afternoon
@@ -70,3 +70,41 @@ Instructor: Patrick Smyth
 Project Laboratory  
 2:00 p.m. - 4:45 p.m.  
 Session Leader: Lisa Rhody
+
+### Friday, June 10th
+
+Digital Project Preservation  
+10:00 a.m. - 10:50 a.m.  
+Instructor: Stephen Klein
+
+Data Management Plans  
+10:00 a.m. - 10:50 a.m.  
+Instructor: Stephen Zweibel
+
+Digital Pedagogy](https://github.com/GCDigitalFellows/DRI-session/blob/master/Digital_Pedagogy.md)  
+10:00 a.m. - 10:50 a.m.  
+Instructor: Luke Waltzer
+
+Text Analysis  
+10:00 a.m. - 10:50 a.m.  
+Instructor: Michelle McSweeney
+
+CUNY Academic Works  
+11:00 a.m. - 11:50 a.m.  
+Instructor: Roxanne Shirazi
+
+Grant & Fellowship Tips  
+11:00 a.m. - 11:50 a.m.  
+Instructor: Jason Rhody
+
+Talking About Your Project in Other Contexts  
+11:00 a.m. - 11:50 a.m.  
+Instructor: Jenny Furlong
+
+Copyright and Creative Commons  
+12:00 p.m. - 12:50 p.m.  
+Instructor: Megan Wacha
+
+Twitter API  
+12:00 p.m. - 12:50 p.m.  
+Instructor: Patrick Smyth  
